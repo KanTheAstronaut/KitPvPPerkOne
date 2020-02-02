@@ -1,0 +1,7 @@
+#how long the effect would last for
+invisibility: 6
+#cooldown
+cooldown: 11
+#Send message to the user?  (Color codes work use '&')
+usermsg: false
+usermsgi: "You are now invisible!"

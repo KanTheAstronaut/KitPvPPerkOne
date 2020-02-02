@@ -1,0 +1,9 @@
+name: KitPvPPerkOne
+main: co.kanepu.kitpvpperkone.main
+author: KanTheAstronaut
+version: 1.0
+commands:
+  kitpvponereload:
+    usage: /kitpvponereload
+    permission: kitpvpperkone.reload
+    aliases: [kitpvpperkone, perkone, kitpvpperkonereload, perkonereload]
