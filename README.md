@@ -24,7 +24,7 @@ usermsgi: "You are now invisible!"
 - Cooldown
 
 ## Permissions:
-- kitpvpperkone.use - Players fishing other players without this permission will result in nothing happening
+- kitpvpperkone.use - Players using the ability without this permission will result in nothing happening
 - kitpvpperkone.nocooldown - Players with this permission will have no cooldown
 - kitpvpperkone.reload - Players with this permission can use the config reload command
 
